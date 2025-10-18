@@ -1,4 +1,4 @@
-📍 DataBase_FireStore 
+📍 Projeto de desenvolvimento android
 
 Aplicativo desenvolvido em Kotlin, utilizando o Firebase Firestore como banco de dados.
 O projeto tem como objetivo realizar o cadastro, armazenamento e gerenciamento de informações de forma integrada à nuvem, explorando conceitos de persistência de dados e integração entre aplicações Android e serviços do Firebase.
